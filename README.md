@@ -13,10 +13,6 @@ I am a dedicated Bachelor of Computer Applications (BCA) student at EIILM, drive
 ![](https://streak-stats.demolab.com/?user=Saheli14102006&theme=github_dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Saheli14102006&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Saheli14102006&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=Saheli14102006&icon=0&color=2)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+

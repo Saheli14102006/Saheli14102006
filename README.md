@@ -1,7 +1,6 @@
 # About Me:
 I am a dedicated Bachelor of Computer Applications (BCA) student at EIILM, driven by a strong passion for technology and continuous learning. I am highly enthusiastic about exploring new concepts and staying updated with emerging trends in the field of computer science. With a growing foundation in programming, I am consistently working on improving my coding skills by practicing, building projects, and solving real-world problems. I enjoy approaching challenges with a logical mindset and aim to develop efficient, practical solutions that can make a meaningful impact.I am committed to personal and professional growth, always seeking opportunities to enhance my knowledge, sharpen my technical abilities, and contribute effectively in dynamic and innovative environments.<br>
 
-[![Hits](https://seeyoufarm.com)](https://seeyoufarm.com)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saheli-mondal-3baaa22b8) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahelimondal580@gmail.com) 
@@ -12,6 +11,9 @@ I am a dedicated Bachelor of Computer Applications (BCA) student at EIILM, drive
 ![](https://github-readme-stats.shion.dev/api?username=Saheli14102006&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=Saheli14102006&theme=github_dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Saheli14102006&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+<img src="https://seeyoufarm.com" width='150'/>
+
 
 
 

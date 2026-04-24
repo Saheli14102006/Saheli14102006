@@ -12,7 +12,7 @@ I am a dedicated Bachelor of Computer Applications (BCA) student at EIILM, drive
 ![](https://streak-stats.demolab.com/?user=Saheli14102006&theme=github_dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Saheli14102006&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-<img src="https://getloli.com" alt="Views" />
+
 
 
 
